@@ -1,2 +1,2 @@
-# rust-dm-spammer
+# Rust DM Spammer
 Discord direct messages spammer.
